@@ -1,0 +1,1458 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"col",
+				"col-sm-3"
+			],
+			[
+				"bir",
+				"birthPlace"
+			],
+			[
+				"deat",
+				"deathDate"
+			],
+			[
+				"co",
+				"col-sm-8"
+			],
+			[
+				"cont",
+				"control-label"
+			],
+			[
+				"ng-sw",
+				"ng-switch-when"
+			],
+			[
+				"tim",
+				"timePeriod"
+			],
+			[
+				"resid",
+				"residPlaces"
+			],
+			[
+				"resi",
+				"residPlaces"
+			],
+			[
+				"birt",
+				"birthDate"
+			],
+			[
+				"si",
+				"sidePanel"
+			],
+			[
+				"displa",
+				"displayElements"
+			],
+			[
+				"bac",
+				"background-color"
+			],
+			[
+				"background",
+				"background"
+			],
+			[
+				"sh",
+				"showPersonData"
+			],
+			[
+				"death",
+				"deathPlace"
+			],
+			[
+				"pro",
+				"properties"
+			],
+			[
+				"birth",
+				"birthPlace"
+			],
+			[
+				"pr",
+				"properties"
+			],
+			[
+				"deathD",
+				"deathDate"
+			],
+			[
+				"deleet",
+				"deleteLineEnds"
+			],
+			[
+				"month",
+				"monthParsingFuck"
+			],
+			[
+				"indivi",
+				"individualFound"
+			],
+			[
+				"file",
+				"fileSplit"
+			],
+			[
+				"s",
+				"script"
+			],
+			[
+				"t",
+				"true"
+			],
+			[
+				"b",
+				"birthCity"
+			],
+			[
+				"de",
+				"deathCity"
+			],
+			[
+				"bi",
+				"birthDate"
+			],
+			[
+				"mes",
+				"messages"
+			],
+			[
+				"dis",
+				"displayElements"
+			],
+			[
+				"deathC",
+				"deathCity"
+			],
+			[
+				"disa",
+				"displayData"
+			],
+			[
+				"get",
+				"getElementById"
+			],
+			[
+				"metat",
+				"metadataParams"
+			],
+			[
+				"re",
+				"residCity"
+			],
+			[
+				"deathCi",
+				"deathCity_data"
+			],
+			[
+				"deathDate",
+				"deathDate_data"
+			],
+			[
+				"dea",
+				"deathDate_data"
+			],
+			[
+				"mess",
+				"messages"
+			],
+			[
+				"l",
+				"log"
+			],
+			[
+				"res",
+				"residCity"
+			],
+			[
+				"fa",
+				"fail"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"padd",
+				"padding-right"
+			],
+			[
+				"background-c",
+				"background-color"
+			],
+			[
+				"pad",
+				"padding-left"
+			],
+			[
+				"mar",
+				"margin"
+			],
+			[
+				"border",
+				"border-width"
+			],
+			[
+				"bord",
+				"border-color"
+			],
+			[
+				"ra",
+				"border-top-left-radius"
+			],
+			[
+				"fon",
+				"font-style"
+			],
+			[
+				"marig",
+				"margin-top"
+			],
+			[
+				"padding",
+				"padding-bottom"
+			],
+			[
+				"paddin",
+				"padding-bottom"
+			],
+			[
+				"backg",
+				"background-color"
+			],
+			[
+				"margin",
+				"margin-left"
+			],
+			[
+				"padi",
+				"padding-top"
+			],
+			[
+				"marin",
+				"margin-left"
+			],
+			[
+				"font",
+				"font-size"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "app.js",
+			"settings":
+			{
+				"buffer_size": 1570,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "routes/api.js",
+			"settings":
+			{
+				"buffer_size": 17717,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "public/js/app.js",
+			"settings":
+			{
+				"buffer_size": 467,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "public/js/controllers.js",
+			"settings":
+			{
+				"buffer_size": 8320,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "views/partials/index.jade",
+			"settings":
+			{
+				"buffer_size": 4361,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "public/css/style.css",
+			"settings":
+			{
+				"buffer_size": 605,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "views/partials/help.jade",
+			"settings":
+			{
+				"buffer_size": 21,
+				"line_ending": "Unix",
+				"name": "Help goes here"
+			}
+		},
+		{
+			"file": "views/index.jade",
+			"settings":
+			{
+				"buffer_size": 1035,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 347.0,
+		"last_filter": "Package Control: ",
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 521.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/Lousan92/new-genealogical-tree/public",
+		"/Users/Lousan92/new-genealogical-tree/public/css",
+		"/Users/Lousan92/new-genealogical-tree/public/js",
+		"/Users/Lousan92/new-genealogical-tree/routes",
+		"/Users/Lousan92/new-genealogical-tree/views",
+		"/Users/Lousan92/new-genealogical-tree/views/partials"
+	],
+	"file_history":
+	[
+		"/Users/Lousan92/genealogical-tree-c37cb41540986393598c561c534e8ea5b95611f0/routes/api.js",
+		"/Users/Lousan92/new-genealogical-tree/aleman.ged",
+		"/Users/Lousan92/new-genealogical-tree/Clarborough.ged",
+		"/Users/Lousan92/new-genealogical-tree/Dossin.GED",
+		"/Users/Lousan92/new-genealogical-tree/index.ged",
+		"/Users/Lousan92/new-genealogical-tree/index.html",
+		"/Users/Lousan92/new-genealogical-tree/indi2.ged",
+		"/Users/Lousan92/new-genealogical-tree/package.json",
+		"/Users/Lousan92/new-genealogical-tree/README.md",
+		"/Users/Lousan92/new-genealogical-tree/test.ged",
+		"/Users/Lousan92/new-genealogical-tree/TFG.sublime-project",
+		"/Users/Lousan92/new-genealogical-tree/TGC55C.ged",
+		"/Users/Lousan92/new-genealogical-tree/TFG.sublime-workspace",
+		"/Users/Lousan92/genealogical-tree/routes/api.js",
+		"/Users/Lousan92/genealogical-tree/Clarborough.ged",
+		"/Users/Lousan92/genealogical-tree/public/js/controllers.js",
+		"/Users/Lousan92/genealogical-tree/package.json",
+		"/Users/Lousan92/genealogical-tree/views/partials/index.jade",
+		"/Users/Lousan92/genealogical-tree/public/js/app.js",
+		"/Users/Lousan92/genealogical-tree/app.js",
+		"/Users/Lousan92/genealogical-tree/views/index.jade",
+		"/Users/Lousan92/genealogical-tree/indi2.ged",
+		"/Users/Lousan92/genealogical-tree/views/partials/test.jade",
+		"/Users/Lousan92/genealogical-tree/Dossin.GED",
+		"/Users/Lousan92/genealogical-tree/Dossin.ged",
+		"/Users/Lousan92/d3-neo4j/graph_logic.js",
+		"/Users/Lousan92/d3-neo4j/neo_query.html",
+		"/Users/Lousan92/genealogical-tree/TGC55C.ged",
+		"/Users/Lousan92/genealogical-tree/test.ged",
+		"/Users/Lousan92/genealogical-tree/views/layout.jade",
+		"/Users/Lousan92/genealogical-tree/README.md",
+		"/Users/Lousan92/genealogical-tree/views/partials/viewNode.jade",
+		"/Users/Lousan92/genealogical-tree/views/partials/newPerson.jade",
+		"/Users/Lousan92/genealogical-tree/routes/index.js",
+		"/Users/Lousan92/genealogical-tree/aleman.ged",
+		"/Users/Lousan92/genealogical-tree/index.ged",
+		"/Users/Lousan92/genealogical-tree/index.html",
+		"/Users/Lousan92/genealogical-tree/public/js/ng-file-upload/FileAPI.js",
+		"/Users/Lousan92/genealogical-tree/public/js/angular/angular.min.js",
+		"/Users/Lousan92/genealogical-tree/public/js/angular/angular.js",
+		"/Users/Lousan92/genealogical-tree/public/js/jquery-2.1.4.js",
+		"/Users/Lousan92/gedcom-tree/test/TGC55C.ged",
+		"/Users/Lousan92/genealogical-tree/views/partials/upload.jade",
+		"/Users/Lousan92/genealogical-tree/upload-test.jade",
+		"/Users/Lousan92/upload-test/index.html",
+		"/Users/Lousan92/upload-test/app.js",
+		"/Users/Lousan92/upload-test/package.json",
+		"/Users/Lousan92/genealogical-tree/public/js/controllers-upload.js",
+		"/Users/Lousan92/Documents/angular_test/app.js",
+		"/Users/Lousan92/Documents/angular_test/index.html",
+		"/Users/Lousan92/genealogical-tree/public/js/fileinput/fileinput.js",
+		"/Users/Lousan92/genealogical-tree/views/partials/deletion.jade",
+		"/Users/Lousan92/conceptual-chains/routes/api.js",
+		"/Users/Lousan92/conceptual-chains/app.js",
+		"/Users/Lousan92/conceptual-chains/README.md",
+		"/Users/Lousan92/conceptual-chains/package.json",
+		"/Users/Lousan92/Dropbox/WOF/Gajos y diseños/Americana/Ruleta BAV/Panel+Marcadores",
+		"/Users/Lousan92/Dropbox/Universidad/TFG/scripts/app.js",
+		"/Users/Lousan92/Dropbox/Universidad/TFG/index.html",
+		"/Users/Lousan92/Desktop/angular.min.js",
+		"/Users/Lousan92/Documents/Sites/hello-node.js",
+		"/Users/Lousan92/Documents/Sites/HelloWorld/package.json",
+		"/Users/Lousan92/Documents/TFG/miserables.html",
+		"/Users/Lousan92/Documents/TFG/index.html",
+		"/Users/Lousan92/d3_js_network/network.rb",
+		"/Users/Lousan92/d3_js_network/public/working.html",
+		"/Users/Lousan92/d3_js_network/public/network.js",
+		"/Users/Lousan92/linkurious.js/Gruntfile.js",
+		"/Users/Lousan92/linkurious.js/test/unit.camera.js",
+		"/Users/Lousan92/linkurious.js/examples/add-node-on-click.html",
+		"/Users/Lousan92/Documents/TFG/nodes.json",
+		"/Users/Lousan92/Dropbox/Pruebas TFG/serverv2.js",
+		"/Users/Lousan92/Dropbox/Pruebas TFG/express.js",
+		"/Users/Lousan92/Dropbox/Pruebas TFG/serverv1.js",
+		"/Users/Lousan92/Dropbox/Pruebas TFG/bookView.ejs",
+		"/Users/Lousan92/Documents/TFG/node.html",
+		"/Users/Lousan92/Documents/TFG/Pruebas/test.js",
+		"/Users/Lousan92/ANNE-stack/public/vendor/ui-bootstrap-tpls-0.10.0.min.js",
+		"/Users/Lousan92/ANNE-stack/public/vendor/underscore-min.js",
+		"/Users/Lousan92/ANNE-stack/public/vendor/ui-bootstrap-tpls-0.10.0.js",
+		"/Users/Lousan92/ANNE-stack/public/vendor/toastr.min.js",
+		"/Users/Lousan92/ANNE-stack/public/vendor/toastr.js",
+		"/Users/Lousan92/ANNE-stack/public/vendor/spin.min.js",
+		"/Users/Lousan92/ANNE-stack/public/vendor/spin.js",
+		"/Users/Lousan92/ANNE-stack/public/vendor/ng-grid.min.js",
+		"/Users/Lousan92/ANNE-stack/public/vendor/moment.min.js",
+		"/Users/Lousan92/ANNE-stack/public/vendor/ng-grid.js",
+		"/Users/Lousan92/ANNE-stack/public/vendor/moment.js",
+		"/Users/Lousan92/ANNE-stack/public/vendor/moment-with-langs.js",
+		"/Users/Lousan92/ANNE-stack/public/vendor/moment-with-langs.min.js",
+		"/Users/Lousan92/ANNE-stack/public/app/admin/query.html",
+		"/Users/Lousan92/ANNE-stack/public/app/admin/create.html",
+		"/Users/Lousan92/ANNE-stack/public/app/dashboard/dashboard.html",
+		"/Users/Lousan92/ANNE-stack/public/index.html",
+		"/Users/Lousan92/Documents/TFG/app.js",
+		"/Users/Lousan92/Documents/TFG/untitled.js",
+		"/Users/Lousan92/Desktop/result.json",
+		"/Users/Lousan92/Documents/neo4j/conf/neo4j-server.properties",
+		"/Users/Lousan92/Documents/neo4j/conf/neo4j.properties",
+		"/Users/Lousan92/Documents/neo4j/conf/neo4j-http-logging.xml",
+		"/Users/Lousan92/Documents/neo4j/conf/logging.properties",
+		"/Users/Lousan92/Documents/neo4j/conf/windows-wrapper-logging.properties",
+		"/Users/Lousan92/Documents/Tutorial Node.js/ex1.js",
+		"/Users/Lousan92/Documents/TFG/pelis.json",
+		"/Users/Lousan92/Documents/TFG/movie-network.js",
+		"/Users/Lousan92/Documents/TFG/movie-network.css",
+		"/Users/Lousan92/Desktop/gedBrowser/prog/GEDtoJSon.html",
+		"/Users/Lousan92/Documents/TFG/css/modern-business.css",
+		"/Users/Lousan92/Documents/TFG/css/bootstrap.css",
+		"/Users/Lousan92/Documents/TFG/css/bootstrap.min.css",
+		"/Users/Lousan92/Documents/TFG/portfolio-3-col.html",
+		"/Users/Lousan92/Documents/cocasion/Web/movie-network.js",
+		"/Users/Lousan92/Documents/cocasion/Web/index.html",
+		"/Users/Lousan92/Documents/cocasion/Web/navigation.html",
+		"/Users/Lousan92/Documents/cocasion/Web/movie-network.css",
+		"/Users/Lousan92/Documents/cocasion/Web/miserables.json",
+		"/Users/Lousan92/Documents/cocasion/Web/population.csv",
+		"/Users/Lousan92/Dropbox/Universidad/CBDE/Neo4J/lab6.py",
+		"/Users/Lousan92/ged4j/ged4j/res/index.ged",
+		"/Users/Lousan92/Desktop/genealogy-neo4j-web-f9ae315fc9b9a89a883c9865d4a942af97d00eda/app/views/main.scala.html",
+		"/Users/Lousan92/Desktop/index.ged.txt",
+		"/Users/Lousan92/Documents/cocasion/Web/css/bootstrap.css",
+		"/Users/Lousan92/Desktop/SOADDef/mult_basica_mpi.c",
+		"/Users/Lousan92/Dropbox/Universidad/SOAD/MPI/mult_basica_mpi.c",
+		"/Users/Lousan92/Dropbox/Universidad/SOAD/MPI/hw.c",
+		"/Users/Lousan92/Desktop/hw.py",
+		"/Users/Lousan92/Documents/cocasion/Web/ocasion.html",
+		"/Users/Lousan92/Documents/cocasion/Web/portfolio-3-col.html"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			"<current file>,<current file>,<current file>",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"col-sm-",
+			"residPlace",
+			"console.log",
+			"id",
+			"console",
+			"@F002",
+			"@F0004",
+			"The early years of married life were spent on the Kendall home farm in Podunk",
+			"The early years of married life were spent on the Kendall home farm in Podunk. establecida",
+			"RESI",
+			"@I0716@",
+			"drawGraph",
+			"RESI",
+			"@I18@",
+			"forEach",
+			"'",
+			"\"Hola\"",
+			"console.log(\"Hola\")",
+			"City",
+			"RESI",
+			"City",
+			"RESI",
+			"RES",
+			"RESI",
+			"F74",
+			"F75",
+			"FAMC",
+			"F64",
+			"F69",
+			"FAMC",
+			"RESI",
+			"strDate",
+			"Eleonore",
+			"Klose",
+			"Kloose",
+			"FAM",
+			"\\n",
+			"This record has a second marriage for \"Joseph Tag Torture\"",
+			"controllers.js",
+			"fileinput",
+			"fileInput",
+			"bootstrap",
+			"db",
+			"getNodeBy",
+			"getNode",
+			"id",
+			"});\n",
+			"div(class=\"form-group\")",
+			"movie-netw",
+			"json",
+			".json",
+			"help",
+			"log",
+			"db.insertNode",
+			"db.insertnode",
+			"node",
+			"neo4j",
+			"f",
+			"title",
+			"col-md-4",
+			"table",
+			"success",
+			"tr:success",
+			"td:success",
+			"table:sucess",
+			"table",
+			"success",
+			"tab",
+			"panel",
+			"panel_on",
+			"#movieInfo",
+			"movieInfoDiv",
+			"movie",
+			"person",
+			"label",
+			"mouseover",
+			"label",
+			"circle",
+			"node",
+			"size",
+			"@media",
+			"margin-top",
+			"h4",
+			"h3",
+			"h2",
+			"h1",
+			"h4",
+			"panel-heading",
+			"btn-default",
+			"td",
+			"td.success",
+			"td.sucess",
+			"td.header",
+			"td.head",
+			"panel",
+			"panel-header",
+			"td.success",
+			"td.sucess",
+			"table-bordered",
+			"td",
+			"tr-",
+			"table-",
+			"table.",
+			"table",
+			"carro",
+			"carr",
+			"carro",
+			"carr",
+			"ca",
+			"carr",
+			"carro",
+			"carrousel",
+			"carr",
+			"btn",
+			"button",
+			"submit",
+			"button",
+			"favicon",
+			"h4",
+			".panel-heading",
+			".panel-default > .panel-heading",
+			".panel-heading",
+			".panel-default > .panel-heading",
+			"panel-heading",
+			"panel-default",
+			"panel-default > panel-heading",
+			"panel > panel-heading",
+			"panel-heading"
+		],
+		"highlight": false,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+			"\"",
+			"Place",
+			"div(class='form-group')"
+		],
+		"reverse": false,
+		"show_context": false,
+		"use_buffer2": false,
+		"whole_word": false,
+		"wrap": false
+	},
+	"groups":
+	[
+		{
+			"selected": 4,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "app.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1570,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1296,
+								1296
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content"
+							],
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 191.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 7,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "routes/api.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 17717,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								27,
+								27
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content"
+							],
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "public/js/app.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 467,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								467,
+								467
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content"
+							],
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "public/js/controllers.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 8320,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								7631,
+								7631
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content"
+							],
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 3491.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "views/partials/index.jade",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4361,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3578,
+								3578
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content"
+							],
+							"syntax": "Packages/Jade/Syntaxes/Jade.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 476.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "public/css/style.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 605,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								387,
+								387
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content"
+							],
+							"syntax": "Packages/CSS/CSS.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "views/partials/help.jade",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 21,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								7,
+								7
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"auto_name": "Help goes here",
+							"bh_regions":
+							[
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content"
+							],
+							"syntax": "Packages/Jade/Syntaxes/Jade.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "views/index.jade",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1035,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								790,
+								790
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content"
+							],
+							"syntax": "Packages/Jade/Syntaxes/Jade.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "TFG.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"pi",
+				"views/partials/index.jade"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 467.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 180.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

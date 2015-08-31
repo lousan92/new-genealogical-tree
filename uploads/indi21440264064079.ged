@@ -1,0 +1,49 @@
+0 HEAD
+1 GEDC
+2 VERS 5.5
+2 FORM LINEAGE-LINKED
+1 CHAR ANSI
+1 LANG Russian
+1 SOUR FAMILYSPACE
+2 NAME FamilySpace - территория родственников
+2 VERS v.0.4.1d
+2 CORP FamilySpace.ru
+0 @I1@ INDI
+1 NAME Jane /Smith/
+2 GIVN Jane
+2 SURN Smith
+2 _MARN Johnson
+1 SEX F
+1 BIRTH
+2 DATE 02 SEP 1903
+2 PLAC dfd
+1 RESI
+2 DATE 1910
+2 PLAC Esplugues de Llobregat, Barcelona
+1 RESI
+2 DATE 1920
+2 PLAC L'Hospitalet de Llobregat, Barcelona
+1 RESI
+2 DATE 1945
+2 PLAC Castelldefels, Barcelona
+1 RESI
+2 DATE 1992
+2 PLAC San Sebastiбn de los Reyes, Madrid
+1 FAMS @F1@
+0 @I2@ INDI
+1 NAME John /Smith/
+2 GIVN John
+2 SURN Smith
+1 SEX M
+1 FAMS @F1@
+0 @I3@ INDI
+1 NAME Puta
+1 SEX F
+1 BIRT
+2 DATE 13 JUN 3422
+2 PLAC Platja del Coco, Badalona
+2 FAMC @F1@
+0 @F1@ FAM
+1 HUSB @I1@
+1 WIFE @I2@
+1 CHIL @I3@

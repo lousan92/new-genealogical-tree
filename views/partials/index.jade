@@ -1,0 +1,143 @@
+div(id="graph")
+div(id="sidePanel")
+	div(class="container col-sm-3")
+		button(type="link" id="closePanel" ng-click="hidePanel()") &times;
+	div(class="container")
+			h3(style="color: #000" class="col-sm-8") {{data.name}} {{data.surnames}}
+		div(class="row")
+			label(for="name" class="control-label") Nombre
+		div(class="row")
+			span(id="name_data" ng-model="data.name") {{data.name}}
+			div(class="row")
+				div(class="col-sm-12")
+					div(class="col-sm-3")
+						label(for="surnames" class="control-label") Apellidos
+					div(class="col-sm-9")
+						input(id="field_surnames" type="text" class="form-control" ng-model="data.surnames" placeholder="Apellidos")
+			div(class="row")
+				div(class="form-group col-sm-12")
+					div(class="col-sm-3")
+						label(for="sex" class="control-label") Sexo
+					div(class="col-sm-9")
+						select(id="field_sex" class="form-control" ng-model="data.sex" placeholder="Sexo")
+							option(value="M") Hombre
+							option(value="F") Mujer
+			div(class="row")
+				div(class="form-group col-sm-12")
+					div(class="col-sm-3")
+						label(for="birthDate" class="control-label") Fecha de nacimiento
+					div(class="col-sm-9")
+						input(id="field_birthDate" type="date" ng-model="data.birthDate")
+			div(class="row")
+				div(class="form-group col-sm-12")
+					div(class="col-sm-3")
+						label(for="deathDate" class="control-label") Fecha de defunción
+					div(class="col-sm-9")
+						input(id="field_deathDate" type="date" ng-model="data.deathDate")
+			div(class="row")
+				div(class="form-group col-sm-12")
+					div(class="col-sm-3")
+						label(for="birthPlace" class="control-label") Lugar de nacimiento
+					div(class="col-sm-9")
+						input(id="field_birthPlace" type="text" class="form-control" ng-model="data.birthPlace" placeholder="Lugar de nacimiento")
+			div(class="row" ng-repeat="place in data.residPlaces")
+				div(class="form-group col-sm-12")
+					div(class="col-sm-3")
+						label(for="residPlaces" class="control-label") Lugar de residencia {{place.position+1}}
+					div(class="col-sm-4")
+						input(id="field_residPlaces_placeName" class="form-control" ng-model="place.placeName" placeholder="Lugar de residencia")
+					div(class="col-sm-4")
+						input(id="field_residPlaces_timePeriod" class="form-control" ng-model="place.timePeriod" placeholder="Periodo de tiempo")
+					div(class="col-sm-1")
+						button(id="delete_residPlace_button" class="btn btn-danger" ng-click="deletePlace(place.position)") -
+			div(class="row")
+				div(class="form-group col-sm-12")
+					div(class="col-sm-3")
+					div(class="col-sm-2")
+						button(id="delete_residPlace_button" class="btn btn-success" ng-click="addPlace()") Añadir otro lugar
+			div(class="row")
+				div(class="form-group col-sm-12")
+					div(class="col-sm-3")
+						label(for="deathPlace" class="control-label") Lugar de defunción
+					div(class="col-sm-9")
+						input(id="field_deathPlace" type="text" class="form-control" ng-model="data.deathPlace" placeholder="Lugar de defunción")
+
+		div(class="modal fade" id="myModal" role="dialog")
+			div(class="modal-dialog modal-lg")
+				div(class="modal-content")
+					div(class="modal-header")
+						button(type="button" class="close" data-dismiss="modal") &times;
+						h4(class="modal-title" align="center") Editar datos
+					div(class="modal-body form-horizontal")
+						div(class="container-fluid")
+							div(class="row")
+								div(id="alerts" class="alert alert-danger")
+									h4 ERRORES EN LOS PARÁMETROS
+									li(id="name") Nombre no introducido
+									li(id="surnames") Apellidos no introducidos
+									li(id="sex") Sexo no seleccionado
+									li(id="birthDate") Fecha de nacimiento no introducida
+									li(id="dates") La fecha de nacimiento es posterior a la fecha de defunción
+									li(id="birthPlace") Ciudad de nacimiento no introducida	
+							div(class="row")
+								div(class="form-group col-sm-12")
+									div(class="col-sm-3")
+										label(for="name" class="control-label") Nombre
+									div(class="col-sm-9")
+										input(id="field_name" type="text" class="form-control" ng-model="data.name" placeholder="Nombre")
+							div(class="row")
+								div(class="form-group col-sm-12")
+									div(class="col-sm-3")
+										label(for="surnames" class="control-label") Apellidos
+									div(class="col-sm-9")
+										input(id="field_surnames" type="text" class="form-control" ng-model="data.surnames" placeholder="Apellidos")
+							div(class="row")
+								div(class="form-group col-sm-12")
+									div(class="col-sm-3")
+										label(for="sex" class="control-label") Sexo
+									div(class="col-sm-9")
+										select(id="field_sex" class="form-control" ng-model="data.sex" placeholder="Sexo")
+											option(value="M") Hombre
+											option(value="F") Mujer
+							div(class="row")
+								div(class="form-group col-sm-12")
+									div(class="col-sm-3")
+										label(for="birthDate" class="control-label") Fecha de nacimiento
+									div(class="col-sm-9")
+										input(id="field_birthDate" type="date" ng-model="data.birthDate")
+							div(class="row")
+								div(class="form-group col-sm-12")
+									div(class="col-sm-3")
+										label(for="deathDate" class="control-label") Fecha de defunción
+									div(class="col-sm-9")
+										input(id="field_deathDate" type="date" ng-model="data.deathDate")
+							div(class="row")
+								div(class="form-group col-sm-12")
+									div(class="col-sm-3")
+										label(for="birthPlace" class="control-label") Lugar de nacimiento
+									div(class="col-sm-9")
+										input(id="field_birthPlace" type="text" class="form-control" ng-model="data.birthPlace" placeholder="Lugar de nacimiento")
+							div(class="row" ng-repeat="place in data.residPlaces")
+								div(class="form-group col-sm-12")
+									div(class="col-sm-3")
+										label(for="residPlaces" class="control-label") Lugar de residencia {{place.position+1}}
+									div(class="col-sm-4")
+										input(id="field_residPlaces_placeName" class="form-control" ng-model="place.placeName" placeholder="Lugar de residencia")
+									div(class="col-sm-4")
+										input(id="field_residPlaces_timePeriod" class="form-control" ng-model="place.timePeriod" placeholder="Periodo de tiempo")
+									div(class="col-sm-1")
+										button(id="delete_residPlace_button" class="btn btn-danger" ng-click="deletePlace(place.position)") -
+							div(class="row")
+								div(class="form-group col-sm-12")
+									div(class="col-sm-3")
+									div(class="col-sm-2")
+										button(id="delete_residPlace_button" class="btn btn-success" ng-click="addPlace()") Añadir otro lugar
+							div(class="row")
+								div(class="form-group col-sm-12")
+									div(class="col-sm-3")
+										label(for="deathPlace" class="control-label") Lugar de defunción
+									div(class="col-sm-9")
+										input(id="field_deathPlace" type="text" class="form-control" ng-model="data.deathPlace" placeholder="Lugar de defunción")
+					div(class="modal-footer")
+						button(type="button" class="btn btn-success" ng-click="editData()") Guardar
+						button(type="button" class="btn btn-danger" data-dismiss="modal") Cancelar

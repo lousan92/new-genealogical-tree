@@ -1,0 +1,29 @@
+extends layout
+
+block content
+  nav(class="navbar navbar-inverse navbar-fixed-top" role="navigation")
+    div(class="container")
+      div(class="navbar-header")
+        button(type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1")
+          span(class="sr-only") Toggle navigation 
+          span(class="icon-bar")
+          span(class="icon-bar")
+          span(class="icon-bar")
+          a(class="navbar-brand" href="index.html")
+      div(class="collapse navbar-collapse" id="bs-example-navbar-collapse-1")
+        ul(class="nav navbar-nav navbar-left")
+          li
+            a(href="/") Página principal
+          li
+            a(href="/upload") Sube tu archivo GEDCOM
+          li
+            a(href="/help") Ayuda
+
+  div(ng-view)
+
+  script(src="/js/angular/angular.js")
+  script(src="/js/app.js")
+  script(src="/js/jquery-2.1.4.js")
+  script(src="/js/bootstrap.js")
+  script(src="/js/controllers.js")
+  script(src="https://cdnjs.cloudflare.com/ajax/libs/d3/3.5.5/d3.min.js")

@@ -1,0 +1,46 @@
+form(name="new-person" class="form-horizontal")
+	div(id="alerts" class="alert alert-danger")
+		h4 ERRORES EN LOS PARÁMETROS
+		li(id="name") Nombre no introducido
+		li(id="surnames") Apellidos no introducidos
+		li(id="sex") Sexo no seleccionado
+		li(id="birthDate") Fecha de nacimiento no introducida
+		li(id="dates") La fecha de nacimiento es posterior a la fecha de defunción
+		li(id="birthPlace") Ciudad de nacimiento no introducida
+		li(id="residPlace") Ciudad de residencia actual no introducida
+	div(class="form-group")
+		label(for="name" class="col-sm-2 control-label") Nombre
+		div(class="col-sm-5")
+			input(type="text" class="form-control" ng-model="form.name" placeholder="Nombre" required)
+	div(class="form-group")
+		label(for="surnames" class="col-sm-2 control-label") Apellidos
+		div(class="col-sm-5")
+			input(type="text" class="form-control" ng-model="form.surnames" placeholder="Apellidos" required)
+	div(class="form-group")
+		label(for="sex" class="col-sm-2 control-label") Sexo
+		div(class="col-sm-2")
+			select(class="form-control" ng-model="form.sex" required)
+				option(value="M") Hombre
+				option(value="F") Mujer
+	div(class="form-group")
+		label(for="birthDate" class="col-sm-2 control-label") Fecha de nacimiento
+		div(class="col-sm-2")
+			input(type="date" ng-model="form.birthDate" required)
+	div(class="form-group")
+		label(for="deathDate" class="col-sm-2 control-label") Fecha de defunción
+		div(class="col-sm-2")
+			input(type="date" ng-model="form.deathDate")
+	div(class="form-group")
+		label(for="birthPlace" class="col-sm-2 control-label") Ciudad de nacimiento
+		div(class="col-sm-5")
+			input(type="text" class="form-control" ng-model="form.birthPlace" placeholder="Ciudad de nacimiento")
+	div(class="form-group")
+		label(for="residPlace" class="col-sm-2 control-label" required) Ciudad de residencia
+		div(class="col-sm-5")
+			input(type="text" class="form-control" ng-model="form.residPlace" placeholder="Ciudad de residencia")
+	div(class="form-group")
+		label(for="deathPlace" class="col-sm-2 control-label") Ciudad de defunción
+		div(class="col-sm-5")
+			input(type="text" class="form-control" ng-model="form.deathPlace" placeholder="Ciudad de defunción")
+	div(class="form-group")
+		button(ng-click="createPerson()", class="btn btn-default") Crear nueva persona
